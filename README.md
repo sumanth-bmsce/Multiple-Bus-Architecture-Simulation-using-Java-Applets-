@@ -1,4 +1,4 @@
-# java_assignment
+
 <h1> Multiple Bus Architecture Simulation System using Java Applets </h1>
 
 <h3> Description </h3>
