@@ -37,8 +37,8 @@ R1out , Y in , WMFC</br>
 MDRout , SelectY, Add, Z in 7</br>
 Z out , R1 in , End</br>
 
+<h3> Screenshots </h3>
 
-
- 
- 
+![Home Screen](https://github.com/sumanth-bmsce/Multiple-Bus-Architecture-Simulation-using-Java-Applets-/blob/master/java1.png)</br>
+*Home Screen*
 
