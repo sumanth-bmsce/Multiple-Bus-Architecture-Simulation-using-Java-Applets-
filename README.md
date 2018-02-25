@@ -42,3 +42,13 @@ Z out , R1 in , End</br>
 ![Home Screen](https://github.com/sumanth-bmsce/Multiple-Bus-Architecture-Simulation-using-Java-Applets-/blob/master/java1.png)</br>
 *Home Screen*
 
+![Simulation path](https://github.com/sumanth-bmsce/Multiple-Bus-Architecture-Simulation-using-Java-Applets-/blob/master/java2.png)</br>
+*Simulation Path*
+
+<h3> New Learnings from the Project </h3>
+
+1. Working of Multiple Bus Architecture.
+2. Applying the concepts of multithreading in simulations.
+3. Making the entire code modular and scalable so that it can be developed further.
+4. Applying the concepts of multithreading in simulations.
+5. Designing an object oriented model for real world problems. 
